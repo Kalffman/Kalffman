@@ -19,7 +19,7 @@
 ### About me
 - ☝🏼 I'm a backend developer with java as my "native" language ☕
 - 👀 Currently working on inproving my api [Base cep](https://github.com/Kalffman/brasil-cep)
-- 💡 Learning Distributed microsservices Architecture with GoLang on Cloud(AWS) environment :)
+- 💡 Learning Distributed microsservices Architecture with GoLang and TypeScript on Cloud(AWS) environment :)
 
 
 ### 🛠️ Tools
