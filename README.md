@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
   
   <div>
     <a href="https://www.linkedin.com/in/kalffman/" target="_blank">
