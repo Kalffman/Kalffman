@@ -49,11 +49,11 @@
 
 ---
 ### 🔥Status
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kalffman&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kalffman&theme=dark&date_format=j%20M%5B%20Y%5D)]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalffman&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalffman&theme=dark)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalffman&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalffman&layout=compact&theme=dark)]
 
 
 <!---
