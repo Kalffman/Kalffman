@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+  <h3>Hi! I’m @Kalffman 😁</h3>
   
   <div>
     <a href="https://www.linkedin.com/in/kalffman/" target="_blank">
@@ -13,7 +13,6 @@
     </a>
   </div>
   
-  <h3>Hi! I’m @Kalffman 😁</h3>
 </div>
 
 
