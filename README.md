@@ -13,7 +13,7 @@
     <a href="https://telegram.me/Kalffman/" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
-    <a href="mailto:jk.lacerda.jkdsl@gmail.com" target="_blank">
+    <a href="mailto:jefferson@kalffman.com" target="_blank">
       <img src="https://img.shields.io/badge/Email_me-303030?logo=Mail.Ru&logoColor=white&style=for-the-badge" alt="Email Badge"/>
     </a>
   </div>
