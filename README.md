@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Email-303030?logo=Mail.Ru&logoColor=white&style=for-the-badge" alt="Email Badge"/>
     </a>
     <a href="https://medium.com/@kalffman" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-303030?logo=Medium&logoColor=white&style=for-the-badge" alt="Medium Badge"/>
+      <img src="https://img.shields.io/badge/Medium-000?logo=Medium&logoColor=white&style=for-the-badge" alt="Medium Badge"/>
     </a>
   </div>
   
