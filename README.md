@@ -20,9 +20,7 @@
 
 
 ### About me
-- ☝🏼 I'm a backend developer with java as my "native" language ☕
-- 👀 Currently working on inproving my api [Base cep](https://github.com/Kalffman/brasil-cep)
-- 💡 Learning Distributed microsservices Architecture with GoLang and TypeScript on Cloud(AWS) environment :)
+☝🏼 I'm a backend developer with java as my "native" language with microservices patterns in cloud environment ☕
 
 
 ### 🛠️ Tools
@@ -30,23 +28,14 @@
   <a href="https://github.com/Kalffman?tab=repositories&q=&type=&language=java" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50px" />
   </a>
-  
-  <a href="https://github.com/Kalffman?tab=repositories&q=&type=&language=typescript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="50px" />
-  </a>
-  
+
   <a href="https://github.com/Kalffman?tab=repositories&q=&type=&language=python" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px" />
   </a>
-  
-  <a href="https://github.com/Kalffman?tab=repositories&q=&type=&language=dart" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Python" width="50px" />
-  </a>
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-plain-wordmark.svg" alt="Spring" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px" />
 </div>
 
